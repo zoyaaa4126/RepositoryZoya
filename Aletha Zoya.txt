@@ -1,0 +1,1 @@
+print("Assalamualaikum ibuu, saya sudah")
